@@ -1361,8 +1361,8 @@ Cheery Spring Meadow Background ~1-2 \
 Cheery Spring Skirt ~1-2 \
 Cherry Blossom Bouquet ~1-2 \
 Cherry Blossom Branch ~1 \
-Cherry Blossom Bridge Background ~4-5 \
 Cherry Blossom Bridge ~1 \
+Cherry Blossom Bridge Background ~4-5 \
 Cherry Blossom Face Paint ~1-2 \
 Cherry Blossom Garland ~30-40 \
 Cherry Blossom Gloves ~1-2 \
@@ -7131,7 +7131,9 @@ School Desk With Books ~1-2 \
 School House Background ~1-2 \
 School Library Background ~1-2 \
 Schools in Session Background ~1 \
-Scorchio Celebration Dress ~1-2 \ Scorchio Party Clutch ~1-2 \ Scorchio Party Wig ~1-2 \
+Scorchio Celebration Dress ~1-2 \
+Scorchio Party Clutch ~1-2 \
+Scorchio Party Wig ~1-2 \
 Scorchio Thief Handheld Plushie ~1-2 \
 Scored Goal Background ~1-2 \
 Scrap Stowaway Collectors Background ~4-6 \
