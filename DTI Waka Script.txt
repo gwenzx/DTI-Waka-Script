@@ -68,7 +68,7 @@ var items = "A \
 3rd Birthday Garland ~.  \
 8-Bit Heart Wings ~1-2 \
 A Day at the Aquarium ~1-2 \
-A Haunting Path Background ~1-2 \
+A Haunting Path Background ~2 \
 A Heros Welcome Background ~1-2 \
 A Night of Trick or Treating ~1-2 \
 A Rainbow of Petpets Tree ~3 \
@@ -481,7 +481,7 @@ Baby Zomutt Costume Face Paint ~1-2 \
 Baby Zomutt Costume Hat ~1-2 \
 Baby Zomutt Costume ~1-2 \
 Backstage Ballroom Background ~2-3 \
-Backwards Hat and Wig ~1-2 \
+Backwards Hat and Wig ~. \
 Backyard Birthday Party Background ~3-4 \
 Backyard Bliss ~1-2 \
 Backyard Bungalow Background ~1-2 \
@@ -697,7 +697,7 @@ Birthday Cupcake Apron ~1-2 \
 Birthday Cupcake Dress ~1-2 \
 Birthday Cupcake Handheld Plushie ~8-9 \
 Birthday Gala Tent Background ~1-2 \
-Birthday Glitter Pennant Garland ~1-2 \
+Birthday Glitter Pennant Garland ~3-4 \
 Birthday Invitation Frame ~1-2 \
 Birthday Party Horn ~1-2 \
 Birthday Party Piñata ~1-2 \
@@ -822,7 +822,7 @@ Blue Christmas Snowflake Arch ~. \
 Blue Christmas Snowflake Arch ~1-2 \
 Blue Cirrus Handheld Plushie ~1-2 \
 Blue Crystal String Lights ~1-2 \
-Blue Cuffed Shorts ~3-5 \
+Blue Cuffed Shorts ~6-7 \
 Blue Field Background ~1-2 \
 Blue Floral Romper ~2-3 \
 Blue Hat Blonde Wig ~1 \
@@ -885,7 +885,7 @@ Boo-ffant Wig ~2-3 \
 Bookish Shirt and Waistcoat ~1-2 \
 Born to be Wild Backdrop ~2-3 \
 Borovan Field Background ~1-2 \
-Botanical Forage Basket ~. \
+Botanical Forage Basket ~2-4 \
 Bottled Beach Finds Foreground ~2-4 \
 Bottled Candle Foreground ~1-2 \
 Bottled Faerie Background ~1 \
@@ -1441,7 +1441,7 @@ City of Maraqua Background ~3-4 \
 City on a Mountainside Background ~1-2 \
 Clapping Chalk Board Erasers ~1-2 \
 Classic Altadorian Pillars ~1-2 \
-Classic Beauty Makeup ~1-2 \
+Classic Beauty Makeup ~3 \
 Classic Beauty Mark ~1 \
 Classic Black & White Dress ~1-2 \
 Classic Black Bob Wig ~1-2 \
@@ -1830,7 +1830,7 @@ Cute Space Dress ~1-2 \
 Cute Yellow Spring Blouse ~1-2 \
 Cybunny Pyjamas ~1-2 \
 Cybunny Scout Collectors Trousers and Boots ~1-2 \
-Cylara Wig ~1-2 \
+Cylara Wig ~3 \
 Cyodrake Lunar Festival Cloak ~1-2 \
 Cyodrake Temple Garden ~13-15 \
 Cumulus Wings ~1-2 \
@@ -1937,7 +1937,7 @@ Dark Faerie Magic Effect ~1 \
 Dark Faerie Magic Orbs ~3-4 \
 Dark Faerie Magic Staff ~1-2 \
 Dark Faerie Magic Wig ~1-2 \
-Dark Faerie Magic Wings ~2-3 \
+Dark Faerie Magic Wings ~4-5 \
 Dark Faerie Shadow ~1-2 \
 Dark Faerie Sister Wig ~1-2 \
 Dark Faerie Smoke Dress ~1-2 \
@@ -2132,7 +2132,7 @@ Denim Jacket ~1-2 \
 Derby Hat ~1-2 \
 Desert Chic Dress ~1-2 \
 Desert Mummy Tutu and Tights ~1-2 \
-Desert Night Background ~1-2 \
+Desert Night Background ~2-3 \
 Desert Night Sky ~5-6 \
 Desert Prince Outfit ~1-2 \
 Desert Princess Outfit ~1-2 \
@@ -2165,7 +2165,7 @@ Diamond Flower Tiara ~1-2 \
 Diamond Heart Tights and Shoes ~2 \
 Diamond Ice Sculpture ~1-2 \
 Diamond Necklace of Hearts ~5-6 \
-Diamond Party Shoes ~. \
+Diamond Party Shoes ~2-3 \
 Diamond Roses Foreground ~1-2 \
 Diamond Satin Baby Valentine Shoes ~1-2 \
 Diamond Watch ~1-2 \
@@ -3109,7 +3109,7 @@ Frosted Pine Cone Bouquet ~1-2 \
 Frosted Pinecone Wreath Garland ~1-2 \
 Frosted Sugar Cookie Wings ~1-2 \
 Frosted Tips Wig ~1-2 \
-Frosted Web Garland ~3-4 \
+Frosted Web Garland ~4-6 \
 Frosty Body Paint ~1-2 \
 Frosty Cold Breath ~2-3 \
 Frosty Eye Makeup ~1-2 \
@@ -3131,7 +3131,7 @@ Frozen Pond Background ~1-2 \
 Frozen Star Lights ~1-2 \
 Frozen Tree Branch Wings ~1 \
 Frozen Waterfall Background ~1-2 \
-Fruity Drink Cart ~. \
+Fruity Drink Cart ~4-6 \
 Fruity Flower Shower ~1-2 \
 Fruity Fun Shirt ~1-2 \
 Full Mint Green Contacts ~1-2 \
@@ -3354,7 +3354,7 @@ Glistening Crystal Necklace ~1-2 \
 Glistening Short Hair ~1-2 \
 Glistening Snowflake Earrings ~1-2 \
 Glitter and Trim Wig ~1-2 \
-Glitter Balloon Bouquet ~1-2 \
+Glitter Balloon Bouquet ~4 \
 Glitter Leggings and Shoes ~1-2 \
 Glitter Winged Eyes ~3-4 \
 Glittering Gold Contacts ~1-2 \
@@ -3844,7 +3844,7 @@ Harvest Feast Background ~1-2 \
 Harvest Feast Foreground ~1-2 \
 Harvest Frame ~2-3 \
 Harvest Leaf Wings ~1-2 \
-Harvest Moon Background ~5 \
+Harvest Moon Background ~2-3 \
 Harvest Orange Jumper ~1-2 \
 Hat of Spring ~1-2 \
 Haunted Ballroom Background ~1-2 \
@@ -3935,7 +3935,7 @@ Heart of Gold Purse ~1-2 \
 Heart of Heart Petals ~2 \
 Heart of Hearts Bouquet ~1-2 \
 Heart of Leaves ~1-2 \
-Heart of the Forest ~5-6 \
+Heart of the Forest ~6-8 \
 Heart Pattern Velvet Dress ~1-2 \
 Heart Pennant Banner ~1-2 \
 Heart Shaped Disco Ball ~1-2 \
@@ -4468,7 +4468,7 @@ Knitted Grey Caplet ~1-2 \
 Knitted Spectacles ~2 \
 Knotted String Lights ~2-4 \
 Knotted Yarn Garland ~1-2 \
-Kookith Necklace ~1-2 \
+Kookith Necklace ~. \
 Korbat Tattoo ~. \
 Krawk Island Adventure Sword ~3 \
 Krawk Island Altador Cup Jersey ~1-2 \
@@ -4581,7 +4581,7 @@ Lanie and Lillie Hide & Go Seek ~1-2 \
 Lantern Lined Path ~1-2 \
 Lantern lit Tree ~2 \
 Large Candelabras Background Item ~1-2 \
-Large Cherry Blossom Tree ~5-7 \
+Large Cherry Blossom Tree ~8-10 \
 Large Gold Arm Bracers ~. \
 Large Pink Flower Hat ~1-2 \
 Large Straw Umbrella ~1-2 \
@@ -4801,7 +4801,7 @@ Lost in Dark Hearts Background ~1-2 \
 Lost in the Forest Background ~1-2 \
 Lost Mittens Garland ~1-2 \
 Lost Temple Background ~1-2 \
-Lost Valentines Garden Background ~2-3 \
+Lost Valentines Garden Background ~1-2 \
 Lots of Love Paper Hearts Foreground ~1-2 \
 Lotus Flower String Lights ~1 \
 Love Potion Foreground ~1-2 \
@@ -4844,7 +4844,7 @@ Lucky Dice Dress ~1-2 \
 Lucky Dice Sunglasses ~1-2 \
 Lucky Drink Cart ~1-2 \
 Lucky Green House Background ~1-2 \
-Lucky Hills Background ~. \
+Lucky Hills Background ~3-4 \
 Lucky Knitted Hat and Wig ~2-3 \
 Lucky Latte ~1-2 \
 Lucky Meowclops ~1-2 \
@@ -5225,7 +5225,7 @@ MiniMME2-B: Flurry of Fiery Neggs Shower ~1-2 \
 MiniMME2-S1: Over-excited Fiery Negg ~1-2 \
 MiniMME2-S2a: Burn Up the Dance Floor Fiery Negg ~1-2 \
 MiniMME2-S2b: Hot Skip and Jump Fiery Negg ~1-2 \
-MiniMME20-B: City in Space Background ~30-35 \
+MiniMME20-B: City in Space Background ~35-40 \
 MiniMME20-S1: Galactic Princess Dress ~1-2 \
 MiniMME20-S2a: Galactic Princess Helmet and Wig ~1-2 \
 MiniMME20-S2b: Galactic Princess Tights and Boots ~1-2 \
@@ -5449,22 +5449,22 @@ MME25-S4a: Shaggy Hair & Headband ~1-2 \
 MME25-S4b: Cape of Fire ~1-2 \
 MME25-S5a: Storage Gear Trinket ~1-2 \
 MME25-S5b: Moltaran Magma Chandelier ~1-2 \
-MME26-B: Faerie Festival Background ~1-2 \
+MME26-B: Faerie Festival Background ~10-12 \
 MME26-S1: Faerie Forest Background ~1-2 \
-MME26-S2a: Psellias Cloud ~1-2 \
+MME26-S2a: Psellias Cloud ~2 \
 MME26-S2b: Eithnes Swirling Fire Aura ~1-2 \
 MME26-S3a: Faerie Petpets Frolicking ~1-2 \
 MME26-S3b: Ariadnes Dress ~1-2 \
 MME26-S4a: Siyanas Golden Aura Makeup ~1-2 \
 MME26-S4b: Darkest Faeries Wand ~1-2 \
-MME26-S5a: Fyoras Secret Escape BG ~1-2 \
-MME26-S5b: Jhudoras Villainous Lair ~. \
+MME26-S5a: Fyoras Secret Escape BG ~3 \
+MME26-S5b: Jhudoras Villainous Lair ~2-3 \
 MME3-B1: Magma Pool Background ~. \
 MME3-S1: Raging Jack-o-Lantern Helmet ~1-2 \
 MME3-S2: Wild Wig of Fire ~1-2 \
 MME3-S3: Flaming Magma Rock Shower ~2-3 \
 MME3-S4: Molten Rock Crown ~1-2 \
-MME3-S5: Burning Red Eyes ~6-8 \
+MME3-S5: Burning Red Eyes ~5 \
 MME3-S5: Flickering Flame Eyes ~6-8 \
 MME4-B1: Sparkling Snow Background ~130-150 \
 MME4-S1: Forgotten Magical Present ~1-2 \
@@ -5474,7 +5474,7 @@ MME4-S4: Sparkling Wand ~1-2 \
 MME4-S5: Starlit Scarf ~1-2 \
 MME4-S6: Magical Winter Wand ~1-2 \
 MME4-S7: Shimmering Star Ball Gown ~6-7 \
-MME4-S7: Sparkling Winter Cloak ~6-8 \
+MME4-S7: Sparkling Winter Cloak ~. \
 MME5-B1: Mystical Stone Lightning Sword ~10-15 \
 MME5-S1: Ancient Blumaroo Sentinels ~1-2 \
 MME5-S2: Mystical Lightning Storm ~2-3 \
@@ -6037,7 +6037,7 @@ Oversized Birthday Shield ~1-2 \
 Oversized Compass ~1-2 \
 Oversized Flower Garden Background ~1-2 \
 Oversized Flower Necklace ~3-4 \
-Oversized Golden Flower Staff ~6-8 \
+Oversized Golden Flower Staff ~. \
 Oversized Head Bow ~1-2 \
 Oversized Heart Handheld Plushie ~1-2 \
 Oversized Nest of Eggs ~1-2 \
@@ -6660,7 +6660,7 @@ Punchbag Bob Punching Bag ~3 \
 Puppet Markings ~1-2 \
 Pure Ice Sword ~1-2 \
 Purple & Black Ponytails Wig ~1-2 \
-Purple and Glitter Makeup ~5-7 \
+Purple and Glitter Makeup ~8-12 \
 Purple and Pink Lamp Trinket ~1-2 \
 Purple Armoured Dress ~1-2 \
 Purple Crystal Shard Staff ~1-2 \
@@ -6765,7 +6765,7 @@ Rainbow Chandelier ~1-2 \
 Rainbow Colour Changing Contacts ~1-2 \
 Rainbow Colours Shower ~1-2 \
 Rainbow Confetti Tree ~1-2 \
-Rainbow Cupcake Purse ~5-8 \
+Rainbow Cupcake Purse ~5 \
 Rainbow Daisy Bouquet ~1-2 \
 Rainbow Daisy Foreground ~2 \
 Rainbow Drape Dress ~1-2 \
@@ -7700,7 +7700,7 @@ Sparkling Blue Skull Facepaint ~1-2 \
 Sparkling Body Paint ~2-3 \
 Sparkling Branches Garland ~1-2 \
 Sparkling Carmariller Wig ~3 \
-Sparkling Carmariller Wings ~1-2 \
+Sparkling Carmariller Wings ~4-6 \
 Sparkling Charcoal Trousers ~1-2 \
 Sparkling Clover Staff ~1-2 \
 Sparkling Cobweb Earrings ~1-2 \
@@ -7743,9 +7743,9 @@ Sparkling Platinum Wig ~1-2 \
 Sparkling Ponytail Wig ~1-2 \
 Sparkling Promenade Gown ~1-2 \
 Sparkling Purple Lace Parasol ~1-2 \
+Sparkling Rainbow ~3-4 \
 Sparkling Rainbow Makeup ~1-2 \
 Sparkling Rainbow Wings ~1-2 \
-Sparkling Rainbow ~3-4 \
 Sparkling Red Dress ~1 \
 Sparkling Red Hair Bow ~1 \
 Sparkling Red Holiday Dress ~2-3 \
@@ -8085,7 +8085,7 @@ Stormy Cloud Dress ~1-2 \
 Stormy Eyes Contacts ~4-6 \
 Stormy Fall Hideaway Background ~. \
 Stormy Night Background ~2-3 \
-Stormy Ombre Contacts ~5 \
+Stormy Ombre Contacts ~5-7 \
 Stormy Ombre Dress ~1-2 \
 Stormy Ombre Flower Foreground ~1-2 \
 Stormy Ombre Flower Wand ~1-2 \
@@ -8131,7 +8131,7 @@ Striped Desert Dress ~1-2 \
 Striped Diner Outfit ~1 \
 Striped Floating Lantern Garland ~1-2 \
 Striped Flower Foreground ~1-2 \
-Striped Flower Shoes ~1-2 \
+Striped Flower Shoes ~. \
 Striped Gloves ~1-2 \
 Striped Green Shirt ~1 \
 Striped Holiday Parasol ~1-2 \
@@ -8219,7 +8219,7 @@ Summer Dream Dress ~1-2 \
 Summer Fedora Wig ~8-10 \
 Summer Fireworks Background ~1-2 \
 Summer Flower Tiara Face Paint ~1-2 \
-Summer Fun Beach Background ~1-2 \
+Summer Fun Beach Background ~. \
 Summer Fun Sunglasses ~1-2 \
 Summer Garden Party Dress ~1-2 \
 Summer Hoop Toy ~1-2 \
@@ -8362,7 +8362,7 @@ Swingin Style Wig ~1-2 \
 Swinging Chia Gnome ~1-2 \
 Swinging in a Nest ~1-2 \
 Swinging on a Cloud ~1-2 \
-Swirl of Magic ~8-10 \
+Swirl of Magic ~12-15 \
 Swirl of Power Effect ~2 \
 Swirling Hearts Head Bonk ~1-2 \
 Swirling Lightmite Shower ~4-5 \
@@ -8501,7 +8501,7 @@ Thumper Tower Trinket ~1-2 \
 Thunderous Night ~1-2 \
 Tiara Updo Wig ~1-2 \
 Ticking Time Foreground ~1-2 \
-Tidal Pool Trinket ~4-6 \
+Tidal Pool Trinket ~8-10 \
 Tie Dye Bathing Suit ~1-2 \
 Tie-Dye Sky Background ~1-2 \
 Tied Bandana Wig ~1 \
@@ -9196,7 +9196,7 @@ Winter Mitten String Lights ~1-2 \
 Winter Moon Background ~2-3 \
 Winter Onesie ~1-2 \
 Winter Park Bench Background ~1-2 \
-Winter Picnic Set Up ~. \
+Winter Picnic Set Up ~2-3 \
 Winter Poinsettia Staff ~1-2 \
 Winter Prince Jacket ~1-2 \
 Winter Prince Trousers ~1-2 \
@@ -9984,7 +9984,7 @@ Dyeworks White: Deadly Beauty Rose ~3 \
 Dyeworks White: Flame Sword ~1-2 \
 Dyeworks White: Garland of Seashells ~1-2 \
 Dyeworks White: Holiday Angel Cape & Wig ~2-3 \
-Dyeworks White: MiniMME4-S2: Cloud of Ghostly Orbs ~2 \
+Dyeworks White: MiniMME4-S2: Cloud of Ghostly Orbs ~2-3 \
 Dyeworks White: Nightmare Bristle Cape ~1-2 \
 Dyeworks White: Ornate Frosted Window Foreground ~2-3 \
 Dyeworks White: Playful Scarecrow Makeup ~1-2 \
